@@ -3,7 +3,7 @@
 This is a simple game developed using Pygame.
 
 ### Aim of Game </br>
-To Shoot as many Corona possible before it touches the line 
+To Shoot as many Corona as possible before it touches the line 
 
 ### Guide 
 Start the Game : Press Space key</br>
