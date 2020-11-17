@@ -14,6 +14,6 @@ To See Demo of Game Check out this [video](https://drive.google.com/file/d/1EOg4
 To see source file : [Click Me](https://github.com/swati-gwc/Corona_Catch/blob/master/main.py) </br>
 
 ### Snapshot of Game
-<img src="https://github.com/swati-gwc/Corona_Catch/blob/master/Game.PNG" alt="SS of Game" width="250" height="250"/>
+<img src="https://github.com/swati-gwc/Corona_Catch/blob/master/Game.PNG" alt="SS of Game" width="550" height="550"/>
 
 
